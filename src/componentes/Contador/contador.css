@@ -1,0 +1,11 @@
+.contador-titulo{
+    text-align: center;
+}
+.contador-aumentar{
+    padding: 10px;
+    margin-left: -6px;
+}
+.contador-diminuir{
+    padding: 10px;
+    margin-left: 10px;
+}
